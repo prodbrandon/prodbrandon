@@ -54,7 +54,7 @@ I love music (creating it, listening to it, sharing it, everything) but I also h
 -->
 
 ### Art thee a recruiter?
-> [⬇⬇⬇⬇⬇⬇⬇⬇]  
+> [⬇⬇⬇⬇⬇⬇⬇]  
 > <a href="https://file.io/GW37AKpK9O63" download>Download my Resume!</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5F5DC&height=120&section=footer" alt="footer"/>
