@@ -18,7 +18,9 @@
 -->
 
 ### Ya gotta love it
-I love music (creating it, listening to it, sharing it, everything) but I also have had a great fascination for apps and building businesses, which has led me to the programming side of things as well. Perhaps I can combine the two, makin' those dreams come true~
+Music
+Digital
+Age
 <!--
      This is the list of my skills and tools I am studying!
 -->
