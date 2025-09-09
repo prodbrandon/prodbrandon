@@ -17,10 +17,8 @@
      My mission, because I'm a superhero!
 -->
 
-### Ya gotta love it
-Music
-Digital
-Age
+### Nice
+
 <!--
      This is the list of my skills and tools I am studying!
 -->
