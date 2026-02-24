@@ -53,12 +53,6 @@
      Oh, hello there, recruiters!
 -->
 
-### Art thee a recruiter?
-> [⬇⬇⬇⬇⬇⬇⬇]  
-> <a href="https://drive.google.com/file/d/1IylGo2bjftCHd_RbFIjjcjKbS601U5-W/view?usp=sharing" download>Download my Resume!</a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5F5DC&height=120&section=footer" alt="footer"/>
-
 <!--
      Thanks for being my guest <3
 -->
