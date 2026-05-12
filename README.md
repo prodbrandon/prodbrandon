@@ -52,8 +52,6 @@
 ### Fun Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=prodbrandon&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodbrandon&layout=compact&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
      Thanks for being my guest <3
 -->
