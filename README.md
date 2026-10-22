@@ -1,23 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5F5DC&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src=https://readme-typing-svg.herokuapp.com?font=Geist&pause=500&color=F5F5DC&width=435&lines=Welcome%2C+it's+Brandon+Lim.;Music+Producer%2FAudio+Engineer;Computer+Science;Thanks+for+stopping+by! alt="Typing SVG"/>
+    <img src=https://readme-typing-svg.herokuapp.com?font=Geist&pause=500&color=F5F5DC&width=435&lines=Welcome%2C+it's+Brandon+Lim.;Music+Producer%2FAudio+Engineer;Software+Engineer;Thanks+for+stopping+by! alt="Typing SVG"/>
 </a>
 
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
-
-<div>
+<!-- <div>
     <img src="./assets/kanye-west.gif" alt="ye GIF" width="400" height="300"/>
     <img src="./assets/kanye-cracked.gif" alt="CD GIF" width="400" height="300"/>
-</div>
-
-<!--
-     My mission, because I'm a superhero!
--->
-
-### Nice
+</div> -->
 
 <!--
      This is the list of my skills and tools I am studying!
