@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5F5DC&height=120&section=header" alt="header"/> 
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5F5DC&height=120&section=header" alt="header"/>  -->
 
 <a href="https://git.io/typing-svg">
     <img src=https://readme-typing-svg.herokuapp.com?font=Geist&pause=500&color=F5F5DC&width=435&lines=Welcome%2C+it's+Brandon+Lim.;Music+Producer%2FAudio+Engineer;Software+Engineer;Thanks+for+stopping+by! alt="Typing SVG"/>
@@ -24,9 +24,9 @@
     <a href="https://credits.muso.ai/profile/a108a294-4f37-4297-b4d9-4f1a6bbc8790">
         <img src="https://cdn.prod.website-files.com/63f953cebe1f8ccadb96f8d5/648cc22fbe01f6d67d4e4ec5_Icon%20Frame_wf-13.svg" alt="Muso.AI" width="30" height="28"/>
     </a>
-    <a href="https://open.spotify.com/playlist/2zPB56hgLCELqawWkORVSe?si=2cd85448f09d41d5">
+    <!-- <a href="https://open.spotify.com/playlist/2zPB56hgLCELqawWkORVSe?si=2cd85448f09d41d5">
         <img src="https://static-00.iconduck.com/assets.00/spotify-icon-2048x2048-5gqpkwih.png" alt="Spotify" width="28" height="28"/>
-    </a>
+    </a> -->
 </div>
 
 ### Connect with me!
